@@ -27,7 +27,6 @@ body {
 #score {
     width: 100px;
     height: 100px;
-    border: 3px ridge #000;
     font-size: 100px;
     text-align: center;
     line-height: 100px;
