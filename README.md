@@ -14,7 +14,7 @@
 ![cruz](https://user-images.githubusercontent.com/41700939/71425289-6411ae00-2679-11ea-95a7-903452ce1998.jpg)
 <ul><li>O jogo inicia com três corações de vida, cada vez que o fantasma desaparece sem ser expulso, o jogador perde uma vida.</li></ul>
 
-![cd_vidas](https://user-images.githubusercontent.com/41700939/71425179-a8507e80-2678-11ea-9a6c-be8593868f13.jpg)
+![cd_vidas](https://user-images.githubusercontent.com/41700939/71425410-34fc3c00-267b-11ea-9e54-e2aa859a5f91.jpg)
 
 #
 
