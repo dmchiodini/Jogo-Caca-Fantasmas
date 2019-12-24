@@ -9,6 +9,7 @@
   <li>Fantasmas irão aparecer em lugares aleatórios na tela, o jogador deve usar a cruz(mouse) para clicar em cima do fantasma e expulsa-lo.</li> 
   <li>Para cada fantasma expulso o jogador ganha um ponto.</li>
 </ul>
+
 ![fantasma](https://user-images.githubusercontent.com/41700939/71425287-607e2700-2679-11ea-804d-57356ab7c988.jpg) 
 ![cruz](https://user-images.githubusercontent.com/41700939/71425289-6411ae00-2679-11ea-95a7-903452ce1998.jpg)
 
