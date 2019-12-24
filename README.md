@@ -6,8 +6,8 @@ Utilização de técnicas como: Manipulação do DOM e criação de elementos ht
 
 <h3>Objetivo</h3>
 Veja quantos fantasmas você é capaz de expulsar com sua cruz. 
-![cursor_cruz](https://user-images.githubusercontent.com/41700939/71425186-b0a8b980-2678-11ea-93c1-204282c4c134.jpg)
-![fantasma](https://user-images.githubusercontent.com/41700939/71425191-b4d4d700-2678-11ea-8800-ea2bbda9d128.gif)
+![fantasma](https://user-images.githubusercontent.com/41700939/71425287-607e2700-2679-11ea-804d-57356ab7c988.jpg)![cruz](https://user-images.githubusercontent.com/41700939/71425289-6411ae00-2679-11ea-95a7-903452ce1998.jpg)
+
 
 O jogo inicia com três corações de vida, cada vez que o fantasma desaparece sem ser expulso, o jogador perde uma vida.
 ![cd_vidas](https://user-images.githubusercontent.com/41700939/71425179-a8507e80-2678-11ea-9a6c-be8593868f13.jpg)
