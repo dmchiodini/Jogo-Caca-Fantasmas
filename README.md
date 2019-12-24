@@ -4,8 +4,8 @@
 
 <b>Utilização de técnicas como:</b> Manipulação do DOM, criação de elementos html e estilização css com Javascript.
 #
-<h3>Objetivo:</h3>
-Veja quantos fantasmas você é capaz de expulsar com sua cruz. 
+<h3>Sobre o jogo</h3>
+- Fantasmas irão aparecer em lugares aleatórios na tela, o jogador deve usar a cruz(mouse) para clicar em cima do fantasma e expulsa-lo. -- Para cada fantasma expulso o jogador ganha um ponto.
 
 ![fantasma](https://user-images.githubusercontent.com/41700939/71425287-607e2700-2679-11ea-804d-57356ab7c988.jpg) 
 ![cruz](https://user-images.githubusercontent.com/41700939/71425289-6411ae00-2679-11ea-95a7-903452ce1998.jpg)
@@ -14,6 +14,10 @@ O jogo inicia com três corações de vida, cada vez que o fantasma desaparece s
 ![cd_vidas](https://user-images.githubusercontent.com/41700939/71425179-a8507e80-2678-11ea-9a6c-be8593868f13.jpg)
 
 #
+
+<h3>Objetivo:</h3>
+Veja quantos fantasmas você é capaz de expulsar com sua cruz. 
+
 #
 
 
